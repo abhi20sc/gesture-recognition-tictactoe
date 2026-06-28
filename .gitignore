@@ -1,0 +1,11 @@
+# MATLAB autosave / backup files
+*.asv
+*.m~
+
+# OS junk
+.DS_Store
+__MACOSX/
+
+# MATLAB temp
+slprj/
+*.autosave
