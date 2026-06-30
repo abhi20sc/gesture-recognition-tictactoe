@@ -71,3 +71,11 @@ MATLAB App Designer interfaces that bring it all together:
 ## Module Context
 
 **ES3H3**, University of Warwick, Year 3 (2025–26).
+
+---
+
+## License & Attribution
+
+This is a **group coursework project** co-authored with other University of Warwick students; it is published here for portfolio and reference purposes only. My own contribution is the **deep-learning gesture-recognition pipeline** (`01_deep_learning/` — data collection, model training, and live testing).
+
+Because the project is **jointly owned**, no blanket open-source licence is applied. My individual contributions may be reused with attribution; all other material remains the property of the respective co-authors. Please get in touch before reusing any part of this work.
